@@ -1,0 +1,27 @@
+[
+  {
+    "class": "Grade 1",
+    "category": "Abacus",
+    "title": "Basic Abacus Lesson",
+    "description": "Introduction to Abacus for beginners.",
+    "fileUrl": "https://drive.google.com/file/d/1xLvvNZPYBXFEmTDlBdPjqrVNnTVJwuB0/view?usp=sharing"
+  },
+  {
+    "class": "Grade 2",
+    "category": "Robotics",
+    "title": "Getting Started with Robotics",
+    "description": "Learn the basics of robotics.",
+    "fileUrl": "https://drive.google.com/file/d/1y8ECTxSd0kfj7OolqiAszjJKWac0r0sU/view?usp=sharing"
+  },
+  {
+    "class": "Grade 3",
+    "category": "AI",
+    "title": "Introduction to Artificial Intelligence",
+    "description": "Basics of AI and Machine Learning.",
+    "fileUrl": "https://drive.google.com/file/d/1y8ECTxSd0kfj7OolqiAszjJKWac0r0sU/view?usp=sharing"
+  }
+<<<<<<< HEAD
+]
+=======
+]
+>>>>>>> 5d64f519cd09566eaa9512f27e275b24ef014920

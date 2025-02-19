@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/education-portal/static/css/main.322e5039.css",
-    "main.js": "/education-portal/static/js/main.558cd506.js",
+    "main.js": "/education-portal/static/js/main.ec51ef3a.js",
     "index.html": "/education-portal/index.html",
     "main.322e5039.css.map": "/education-portal/static/css/main.322e5039.css.map",
-    "main.558cd506.js.map": "/education-portal/static/js/main.558cd506.js.map"
+    "main.ec51ef3a.js.map": "/education-portal/static/js/main.ec51ef3a.js.map"
   },
   "entrypoints": [
     "static/css/main.322e5039.css",
-    "static/js/main.558cd506.js"
+    "static/js/main.ec51ef3a.js"
   ]
 }
